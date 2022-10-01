@@ -1,7 +1,6 @@
 ## Jhonatan Willian 
 
 ## Olá, Developers!
-Tenho 19 anos, moro em Natal/RN e sou iniciante no universo da programação. Sou Designer Gráfico, desenvolvendo postagens e organizando feeds de redes sociais. xD
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
