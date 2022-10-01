@@ -11,9 +11,9 @@
 
   ##
  
-🌱 Estou estudando HTML e Javascript
+🌱 Estou estudando Python e Javascript.
 
-🔭 Confesso que tenho uma quedinha pelo desenvolvimento front-end 😬
+🔭 Entusiasta no desenvolvimento back-end 😬
 
 👾 Adoro Games e Tecnologia. Meu hobbie preferido é jogar algum jogo favorito, preferencialmente os de ação 🥊
 
